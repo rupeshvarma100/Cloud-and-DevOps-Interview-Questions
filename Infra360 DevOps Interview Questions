@@ -1,0 +1,33 @@
+Interview role at Infra360 as a fresher 
+
+Role according to JD - Associate Devops Engineer 
+
+Technical Round | Technical 1
+
+**Explain yourself and your experience in DevOps.
+
+1. What command is used to list all listening ports in a Linux machine?
+2. Name some popular Linux distributions.
+3. How can you access private instances in a VPC?
+4. How do you SSH into an EC2 instance using your key?
+5. How can you convert a public VPC into a private VPC?
+6 .Explain what Security Groups (SGs) and Network ACLs (NACLs) are.
+7. How can you block an IP using Security Groups only?
+8. Explain a DevSecOps CI/CD pipeline.
+  --Follow-up : What are SAST and DAST? Explain both.
+
+9. How do you automate quality gates?
+10. What is a DaemonSet and what is its use case?
+11. What are taints and tolerations in Kubernetes? Explain their use case.
+
+CEO Round | Technical ||
+
+**Introduce yourself — where do you belong from and what is your background?
+
+1. What is the default port of Jenkins?
+2. How do you secure your Jenkins server?
+3. Explain your CI/CD pipeline and how you optimize it for faster performance.
+4. Explain your approach to deploy a three-tier architecture application in Kubernetes (Frontend, Backend, and Database).
+5. Explain the project mentioned in your resume in detail.
+6. What is Terraform?
+  --Follow-up: Explain the purpose and configuration of backend.tf in Terraform.
