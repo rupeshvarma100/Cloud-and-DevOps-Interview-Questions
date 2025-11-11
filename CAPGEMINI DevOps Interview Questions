@@ -13,12 +13,12 @@
 6. What would be the onboarding steps for a new application on EKS?
 
 7. You mentioned you are scanning the code for code quality — what would be the default configuration set for the threshold value?
-
-   --Change that from 80 to 90 — where is that option and how can I do that?
+	--Change that from 80 to 90 — where is that option and how can I do that?
 
 8. There are two projects, ABC and XYZ. I want to set the threshold value of code quality check for 70% for ABC and 80% for XYZ. Can I do that?
 
-9. I want to check the vulnerabilities in my code. How can I do that? I want to check the vulnerabilities available in my project.
+9. I want to check the vulnerabilities in my code. How can I do that? 
+	--I want to check the vulnerabilities available in my project.
 
 10. What is the difference between NAT Gateway and IGW?
 
